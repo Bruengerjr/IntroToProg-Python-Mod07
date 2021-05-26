@@ -1,8 +1,10 @@
+```
 Mike Bruenger
 May 25, 2021
 Introduction to Python
 Assignment07
 https://github.com/Bruengerjr/IntroToProg-Python-Mod07.git
+```
 
 #     Picking and Exception Handling
 ##    Introduction
