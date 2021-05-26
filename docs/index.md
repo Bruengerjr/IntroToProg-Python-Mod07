@@ -16,7 +16,7 @@ I started off referencing some of the code from the lab, sticking with requestin
 ##    Adding Additional Capabilities to the Script
 I used a try except to provide the user with an easily understood error message that the Customer ID must be a number if input that is not an Integer is entered.
 ##    Preparing for Submission
-In preparation for submission I created the desired folder hierarchy, named the files appropriately, and took the required screenshots of the code in action (Figure 1) , the created dat file (Figure 2), and the custom error message (Figure 3).
-         
+In preparation for submission I created the desired folder hierarchy, named the files appropriately, and took the required screenshots of the code in action (Figure 1) , the created dat file (![Figure 2](https://github.com/Bruengerjr/IntroToProg-Python-Mod07/edit/main/docs/Appdata.png)"Figure 2"), and the custom error message (Figure 3).
+
 ##    Summary
 I have described the process of completing Assignment07 and the steps I took researching pickling and error handling, creating the Assignment07 script, adding additional capabilities to the script, and preparing them for submission.
